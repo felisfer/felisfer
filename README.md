@@ -63,8 +63,8 @@ fun_fact: I run my own homelab server named "felis" — rootless Docker, Cloudfl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felisfer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felisfer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
